@@ -66,27 +66,6 @@ IOS       ██████████████   13,865 plays
 OTHERS    █                  191 plays
 ```
 
-### Geographic Reach
-
-| Country | Plays | % of Total |
-|---------|-------|------------|
-| INDIA | 31,562 | 68.4% |
-| UNITED STATES | 14,527 | 31.5% |
-| GERMANY | 12 | 0.03% |
-| UNITED KINGDOM | 7 | 0.02% |
-| PUERTO RICO | 11 | 0.02% |
-
-### Listening Patterns
-
-| Year | Peak Hours | Top Platform | Daily Average |
-|------|------------|--------------|---------------|
-| 2020 | 12:00-18:00 | WINDOWS | 1.1 hrs |
-| 2021 | 12:00-18:00 | WINDOWS | 1.2 hrs |
-| 2022 | 12:00-18:00 | WINDOWS | 1.3 hrs |
-| 2023 | 18:00-00:00 | WINDOWS | 1.2 hrs |
-| 2024 | 00:00-06:00 | WINDOWS | 1.4 hrs |
-| 2025 | 18:00-00:00 | IOS | 1.2 hrs |
-
 ## 📱 Content Analytics
 
 ### Top Artists & Hours
