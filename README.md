@@ -137,7 +137,6 @@ def convert_to_local_time(row):
 ---
 <div align="center">
 
-*Created with ❤️ for data analytics*
 
 [🔝 Back to Top](#)
 </div>
